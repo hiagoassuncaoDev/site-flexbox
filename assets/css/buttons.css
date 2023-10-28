@@ -7,3 +7,7 @@
     background: #ff6633;
     color: white;
 }
+
+.btn.btn-laranja:hover {
+    background: #333366;
+}
